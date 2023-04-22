@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#root{
+    background-color: rgb(175, 228, 175);
+}
+
+button{
+    width: 20px;
+    height: 20px;
+}
+
+.info{
+    padding-left: 20px;
+    list-style: none;;
+}
